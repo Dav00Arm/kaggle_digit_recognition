@@ -1,2 +1,2 @@
 # kaggle_digit_recognition
-Kaggle digit recognition competition
+Achieved 98.964% accuracy with Convolutional Neural Network
